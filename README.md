@@ -18,7 +18,7 @@ We built a **Neuro-Symbolic AI Architecture**. Instead of relying on a standard 
 
 ## 🧠 Architecture & Data Flow
 
-![Nivesh-Mitra Architecture](parquets/databricks.drawio (3).png)
+![Nivesh-Mitra Architecture](parquets/databricks.drawio%20(3).png)
 
 Our pipeline executes in under 10 seconds through four distinct stages:
 
